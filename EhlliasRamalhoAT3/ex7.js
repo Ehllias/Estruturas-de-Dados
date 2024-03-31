@@ -1,0 +1,1 @@
+// Errado. Porque na verdade as listas não respeitam uma devida organização como pilha ou fila, mas sim o que você quiser remover independente da ordem.
