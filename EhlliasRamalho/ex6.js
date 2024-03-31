@@ -1,0 +1,1 @@
+// Letra 'C'. Pilha corresponde a primeira a entrar é a última a sair, e em fila quem entra primero também sai primeiro.

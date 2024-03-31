@@ -1,0 +1,1 @@
+// Certo. Quem entra primeiro sai primeiro.
